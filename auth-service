@@ -22,5 +22,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 
 jwt:
-  secret: hospicareSecretKey
+  secret: XMGQMEi5nNdT3zvDp4YZ1mg6WNi9P6MwR2Jf2ENm8v8
   expiration: 86400000 # 1 day in milliseconds
